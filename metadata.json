@@ -1,0 +1,5 @@
+{
+  "name": "ThreatHeat - MITRE ATT&CK Visualizer",
+  "description": "A cyber security tool that generates dynamic MITRE ATT&CK heatmaps for specific threat actors using AI analysis.",
+  "requestFramePermissions": []
+}
